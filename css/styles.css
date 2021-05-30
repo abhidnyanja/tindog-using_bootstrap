@@ -1,0 +1,133 @@
+#title{
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+
+.fu{
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 3rem;
+    
+    line-height: 1.5;
+}
+.xxx{
+    padding: 3% 15%;
+}
+.navbar-brand{
+    font-family: "ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #ff4c68;
+}
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+.op{
+    font-family: "Montserrat-Black";
+    font-size: 2rem;
+}
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+}
+.title-image{
+    width: 50%;
+    transform: rotate(25deg);
+}
+#features{
+    padding: 7% 15%;
+}
+.feature-box{
+    text-align: center;
+    padding: 7%;
+}
+.icon{
+    
+    color:#ff4c68;
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: #ff4cc9;
+}
+@media (max-width: 1028px)
+{
+    #title{
+        text-align: centre;
+    }
+    .title-image{
+        position: static;
+        transform: rotate(0);
+    }
+}
+w-100 {
+    width: 100%!important;
+}
+.btn-group-lg>.btn, .btn-lg {
+    padding: .5rem 1rem;
+    font-size: 1.25rem;
+    border-radius: .3rem;
+}
+.btn-outline-primary {
+    color: #0d6efd;
+    border-color: #0d6efd;
+}
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+.pricing-column{
+    padding: 2% 3%;
+}
+h2{
+    font-size: 3rem;
+    font-family: "Montserrat-Bold";
+    line-height: 1.5;
+}
+#cta{
+    background-color: #ff4c68;
+    color: #fff;
+    padding: 7% 15%;
+    text-align: center;
+}
+.cta-heading{
+    font-family: "Montserrat-Black";
+    font-size: 3rem;
+    line-height: 1.5;
+}
+#footer{
+    padding: 7% 15% ;
+    text-align: center;
+}
+.social-icon{
+    margin: 30px 10px;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+#testimonials{
+    background-color: #ef8172;
+    text-align: center;
+    color: #fff;
+}
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.testtimonial-text{
+    font-size: 3rem;
+    line-height: 1.5;
+}
